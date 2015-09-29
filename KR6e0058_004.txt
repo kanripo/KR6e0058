@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:57:07.703968
+#+DATE: 2015-09-28 22:57:11.433832
 #+TITLE: 最勝問菩薩十住除垢斷結經
 #+PROPERTY: CBETA_ID T10n0309
 #+PROPERTY: ID KR6e0058
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 309
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6e0058_T_004-0989c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
 ¶
-
- 《十住斷結經》卷第四¶
+《十住斷結經》卷第四¶
 ¶
 姚秦涼州沙門竺佛念譯¶
 
-10成道品
-:PROPERTIES:
-:head: 成道品第十
-:END:
-¶
+成道品第十¶
 
 是時最勝菩薩復白佛言：「世尊！云何十住菩
 <pb:KR6e0058_T_004-0990a>¶
@@ -428,11 +423,7 @@
 生亦不知吾身為所住。是謂菩薩多所潤及，¶
 是謂最勝十住菩薩於十地中而淨其行。」¶
 
-11滅心品
-:PROPERTIES:
-:head: 滅心品第十一
-:END:
-¶
+滅心品第十一¶
 
 是時最勝菩薩前白佛言：「云何菩薩觀無常¶
 義諦分別空，解了己身內外無主？又心自在¶
