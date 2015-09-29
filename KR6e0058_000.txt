@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 最勝問菩薩十住除垢斷結經
+#+DATE: 2015-09-28 22:57:08.197460
+#+PROPERTY: JUAN 0
