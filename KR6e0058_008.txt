@@ -1,26 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:57:07.835480
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:48
 #+TITLE: 最勝問菩薩十住除垢斷結經
 #+PROPERTY: CBETA_ID T10n0309
 #+PROPERTY: ID KR6e0058
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 309
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0058_T_008-1023c> 
 #+PROPERTY: JUAN 8
 ¶
 ¶
-
- 《十住斷結經》卷第八¶
+《十住斷結經》卷第八¶
 ¶
 姚秦涼州沙門竺佛念譯¶
 
-22等慈品
-:PROPERTIES:
-:head: 等慈品第二十二
-:END:
-¶
+* 等慈品第二十二¶
 
 爾時最勝菩薩前白佛言：「云何菩薩入等慈¶
 三昧，遍觀三千大千世界，人陰神陰諸龍鬼¶
@@ -398,11 +393,7 @@
 那術人皆發無上正真道意，八千菩薩尋於¶
 坐上逮得等慈三昧。¶
 
-23法界品
-:PROPERTIES:
-:head: 法界品第二十三
-:END:
-¶
+* 法界品第二十三¶
 
 爾時世尊，放舌相光明普照三千大千世界，¶
 復照十方諸佛國土，四維上下靡不蒙照，復¶
