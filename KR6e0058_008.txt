@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:57:07.835480
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:48
 #+TITLE: 最勝問菩薩十住除垢斷結經
 #+PROPERTY: CBETA_ID T10n0309
 #+PROPERTY: ID KR6e0058
@@ -16,7 +16,7 @@
 ¶
 姚秦涼州沙門竺佛念譯¶
 
-22等慈品
+* 22等慈品
 :PROPERTIES:
 :head: 等慈品第二十二
 :END:
@@ -398,7 +398,7 @@
 那術人皆發無上正真道意，八千菩薩尋於¶
 坐上逮得等慈三昧。¶
 
-23法界品
+* 23法界品
 :PROPERTIES:
 :head: 法界品第二十三
 :END:

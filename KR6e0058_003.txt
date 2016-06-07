@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:57:07.670999
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:48
 #+TITLE: 最勝問菩薩十住除垢斷結經
 #+PROPERTY: CBETA_ID T10n0309
 #+PROPERTY: ID KR6e0058
@@ -17,7 +17,7 @@
 ¶
 姚秦涼州沙門竺佛念譯¶
 
-8童真品
+* 8童真品
 :PROPERTIES:
 :head: 童真品第八
 :END:
@@ -459,7 +459,7 @@
 最勝！當作是學，如是學者便應第八菩薩之¶
 道。」¶
 
-9定意品
+* 9定意品
 :PROPERTIES:
 :head: 定意品第九
 :END:
